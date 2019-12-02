@@ -7,7 +7,7 @@ DATE LAST MODIFIED: 02/12/19
 
 AUTHOR: Sebastian Bratt
 
-HOW TO START THE APPLICATION: The application can be lauched through use 
-			      of the shortcut in the same directory as this readme.
+HOW TO START THE APPLICATION: The project can be lauched through use of a batch file shortcut
+			      to the debug application in the same directory as this readme.
 			      Alternatively the project may be built and 
 			      launched through visual studio 2017.
