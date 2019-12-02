@@ -1,0 +1,1 @@
+start Paint_Calculator\bin\Debug\Paint_Calculator.exe
