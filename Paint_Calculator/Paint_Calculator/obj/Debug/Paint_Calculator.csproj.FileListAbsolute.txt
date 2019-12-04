@@ -8,3 +8,13 @@ C:\Users\Diamond097\source\repos\Paint_Calculator\Paint_Calculator\obj\Debug\Pai
 C:\Users\Diamond097\source\repos\Paint_Calculator\Paint_Calculator\obj\Debug\Paint_Calculator.csproj.CoreCompileInputs.cache
 C:\Users\Diamond097\source\repos\Paint_Calculator\Paint_Calculator\obj\Debug\Paint_Calculator.exe
 C:\Users\Diamond097\source\repos\Paint_Calculator\Paint_Calculator\obj\Debug\Paint_Calculator.pdb
+C:\Users\Diamond097\Documents\GitHub\Paint-Calculator\Paint_Calculator\Paint_Calculator\bin\Debug\Paint_Calculator.exe.config
+C:\Users\Diamond097\Documents\GitHub\Paint-Calculator\Paint_Calculator\Paint_Calculator\bin\Debug\Paint_Calculator.exe
+C:\Users\Diamond097\Documents\GitHub\Paint-Calculator\Paint_Calculator\Paint_Calculator\bin\Debug\Paint_Calculator.pdb
+C:\Users\Diamond097\Documents\GitHub\Paint-Calculator\Paint_Calculator\Paint_Calculator\obj\Debug\Paint_Calculator.csprojAssemblyReference.cache
+C:\Users\Diamond097\Documents\GitHub\Paint-Calculator\Paint_Calculator\Paint_Calculator\obj\Debug\Paint_Calculator.Form.resources
+C:\Users\Diamond097\Documents\GitHub\Paint-Calculator\Paint_Calculator\Paint_Calculator\obj\Debug\Paint_Calculator.Properties.Resources.resources
+C:\Users\Diamond097\Documents\GitHub\Paint-Calculator\Paint_Calculator\Paint_Calculator\obj\Debug\Paint_Calculator.csproj.GenerateResource.cache
+C:\Users\Diamond097\Documents\GitHub\Paint-Calculator\Paint_Calculator\Paint_Calculator\obj\Debug\Paint_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Diamond097\Documents\GitHub\Paint-Calculator\Paint_Calculator\Paint_Calculator\obj\Debug\Paint_Calculator.exe
+C:\Users\Diamond097\Documents\GitHub\Paint-Calculator\Paint_Calculator\Paint_Calculator\obj\Debug\Paint_Calculator.pdb

@@ -226,6 +226,7 @@
             this.Controls.Add(this.gb_output);
             this.Controls.Add(this.gb_input);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
+            this.MaximizeBox = false;
             this.Name = "Form";
             this.SizeGripStyle = System.Windows.Forms.SizeGripStyle.Show;
             this.Text = "Paint Calculator";
