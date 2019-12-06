@@ -3,7 +3,7 @@ PROJECT TITLE: Paint_Calculator
 PURPOSE: A simple windows form application for calculating the 
 	 paint required for a cuboid shaped room.
 
-DATE LAST MODIFIED: 04/12/19
+DATE LAST MODIFIED: 06/12/19
 
 AUTHOR: Sebastian Bratt
 

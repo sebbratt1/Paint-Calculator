@@ -103,26 +103,42 @@ namespace Paint_Calculator
             double roomVolumne; //Stores the calculated volumn of the room (in cubic metres)
             double paintReq;   //Stores the calculated amount of paint needed to cover the walls (in square litres)
 
-            if (cb_measure.SelectedIndex == 0)
-            {
-                _height /= 100;
-                _width /= 100;
-                _length /= 100;
-            }
 
             // Calculate area of the floor
             floorArea = _width * _length;
-            tb_floorArea.Text = string.Format("{0:0.000}",floorArea) + " m²";
 
             // Calculate volume of the room
             roomVolumne = floorArea * _height;
-            tb_roomVolume.Text = string.Format("{0:0.000}",roomVolumne) + " m³";
 
             // Calculate paint required to paint walls
             // Assuming 1 litre of paint covers 10 square meters
-
             paintReq = (((_height * _width) * 2) + ((_height * _length) * 2)) / 10;
-            tb_paintReq.Text = string.Format("{0:0.000}",paintReq) + " litres";
+
+            // Display Results
+            switch (cb_measure.SelectedIndex)
+            {
+                // Imperial Calculation
+                case 0:
+                    // Display area of the floor
+                    tb_floorArea.Text = string.Format("{0:0.000}", floorArea) + " ft²";
+
+                    // Display volume of the room    
+                    tb_roomVolume.Text = string.Format("{0:0.000}", roomVolumne) + " ft³";
+                break;
+
+                // Metric Calculation
+                case 1:
+                    // Display area of the floor
+                    tb_floorArea.Text = string.Format("{0:0.000}", floorArea) + " m²";
+
+                    // Display volume of the room       
+                    tb_roomVolume.Text = string.Format("{0:0.000}", roomVolumne) + " m³";
+                break;
+            }
+
+            // Display paint required to paint walls
+            tb_paintReq.Text = string.Format("{0:0.000}", paintReq) + " litres";
+
         }
 
     }

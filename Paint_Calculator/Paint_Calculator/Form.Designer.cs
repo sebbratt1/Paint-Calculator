@@ -72,7 +72,7 @@
             this.cb_measure.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cb_measure.FormattingEnabled = true;
             this.cb_measure.Items.AddRange(new object[] {
-            "Centimetres (cm)",
+            "Feet (ft)",
             "Metres (m)"});
             this.cb_measure.Location = new System.Drawing.Point(139, 30);
             this.cb_measure.Name = "cb_measure";
